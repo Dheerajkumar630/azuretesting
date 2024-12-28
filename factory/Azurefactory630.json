@@ -1,0 +1,9 @@
+{
+	"name": "Azurefactory630",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbd2b3d7-0645-4905-bd88-c8e252c282bc",
+		"tenantId": "83ae17b0-a73d-4595-b2e3-6c088e4bdae3"
+	}
+}
